@@ -78,7 +78,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url("solar_map-arrow-up-bold.svg");
-    padding-left: 20px;
+    padding: 0 0 0 20px;
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -88,7 +88,7 @@ select {
     /* Стили для нумерованного списка во второй секции */
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0 0 0 20px;
 
 }
 
@@ -139,7 +139,7 @@ table {
 
 th, td {
     /* Стили для ячеек таблицы */
-    padding: 12px 14px;
+    padding: 12px 15px;
     border: 1px solid #95A1BB;
 }
 
